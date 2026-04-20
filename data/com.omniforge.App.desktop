@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OmniForge
+Comment=Local AI creator studio
+Exec=omniforge
+Icon=com.omniforge.App
+Categories=Development;Science;
+Terminal=false

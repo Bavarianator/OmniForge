@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="com.omniforge.App" path="/com/omniforge/App/">
+    <key name="last-workspace" type="s">
+      <default>''</default>
+      <summary>Most recently opened workspace directory</summary>
+    </key>
+  </schema>
+</schemalist>

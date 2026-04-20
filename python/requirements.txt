@@ -1,0 +1,7 @@
+# Bundled venv for LoRA / QLoRA training (offline after initial wheel install).
+transformers>=4.40.0
+peft>=0.11.0
+accelerate>=0.30.0
+datasets>=2.19.0
+bitsandbytes>=0.43.0; platform_system != "Darwin"
+torch>=2.2.0

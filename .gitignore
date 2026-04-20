@@ -1,0 +1,19 @@
+# Build artifacts
+/target/
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug logs (Cursor agent logs)
+*.log
+
+# Crash reports
+*.core

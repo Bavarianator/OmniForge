@@ -1,0 +1,5 @@
+/* OmniForge GTK4 / Libadwaita tweaks — keep palette on Adwaita tokens. */
+
+.omniforge-drop-zone {
+  min-height: 160px;
+}

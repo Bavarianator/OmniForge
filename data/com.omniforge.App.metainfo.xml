@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.omniforge.App</id>
+  <name>OmniForge</name>
+  <summary>Build and run personal AI models locally</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <description>
+    <p>OmniForge is a privacy-first Linux desktop studio for dataset prep, LoRA tuning, RAG, and GGUF export.</p>
+  </description>
+  <launchable type="desktop-id">com.omniforge.App.desktop</launchable>
+</component>
